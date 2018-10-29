@@ -6,6 +6,8 @@ public class Mytest {
 		// TODO Auto-generated method stub
 		System.out.println("开始git测试");
 		System.out.println("yulangzi加的代码");
+		System.out.println("yulangzi加的代码1");
+		System.out.println("yulangzi加的代码2");
 	}
 
 }
