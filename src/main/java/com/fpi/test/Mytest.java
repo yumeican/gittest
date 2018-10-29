@@ -8,6 +8,8 @@ public class Mytest {
 		System.out.println("yulangzi加的代码");
 		System.out.println("yulangzi加的代码1");
 		System.out.println("yulangzi加的代码2");
+		System.out.println("yulangzi加的代码3");
+		System.out.println("yulangzi加的代码4");
 	}
 
 }
